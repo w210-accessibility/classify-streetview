@@ -1,0 +1,12 @@
+,Train,Test,Combined
+present_ramp,328,136,464
+missing_ramp,40,39,79
+obstacle,44,35,79
+surface_prob,97,65,162
+no_sidewalk,42,21,63
+labels_count,1939,912,2851
+count_present_ramp,1210,467,1677
+count_missing_ramp,64,60,124
+count_obstacle,77,70,147
+count_surface_prob,262,186,448
+count_no_sidewalk,305,125,430
